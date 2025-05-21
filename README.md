@@ -1,6 +1,6 @@
 # com.castsoftware.uc.HLApplicationResultDownloader
 
-## CAST Highlight Results Downloader
+## Highlight Application CSV Downloader
 This extension is used to download application result CSVs from CAST Highlight by providing a list of application names in a CSV file. An example applications.csv is included in the extension.
 
 ## TODO
