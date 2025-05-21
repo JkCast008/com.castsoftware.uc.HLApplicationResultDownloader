@@ -1,0 +1,8 @@
+{
+    "domainId": "your_domain_id",
+    "HighlightAPIKey": "Highlight_API_Access_token",
+    "csv_file": "your_input_applications.csv",
+    "output_csv": "your_output_applications_with_results_ids.csv",
+    "output_parent_folder": "exported_csvs",
+    "base_url": "https://rpa.casthighlight.com"
+}
